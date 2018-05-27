@@ -1,4 +1,4 @@
-# Add-Boost-Environment-Variables <br />
+# Add-Environment-Variables <br />
 ## This is another version of the application, used for every system variable <br />
 This is a mini tool to ease the replacement of Boost Environment Variables in Windows (7,8,8.1,10)  <br />
 Tested only on windows 10, but I do believe it's working on windows >= 7 <br />
